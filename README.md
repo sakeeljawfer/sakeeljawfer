@@ -5,14 +5,13 @@
 
 Here are some ideas to get you started:
 
-Hi there, I'm Sakeel jawfer - aka codeSTACKr 👋
-Website Twitter Follow
+Hi there, I'm Sakeel jawfer 
 
 I'm a  Developer, and DevOps Enthusiast!!
 🌱 I’m currently learning everything 🤣
 👯 I’m looking to collaborate with other content creators
 🥅 2022 Goals: Contribute more projects
-⚡ Fun fact: I love to draw and play guitar / drums
+⚡ Fun fact: ------
 
 
 Languages and Tools:
